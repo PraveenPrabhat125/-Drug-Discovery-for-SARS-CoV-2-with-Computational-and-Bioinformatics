@@ -1,1 +1,0 @@
-# -Drug-Discovery-for-SARS-CoV-2-with-Computational-and-Bioinformatics
